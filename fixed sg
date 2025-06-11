@@ -25,7 +25,7 @@ info('Success','Downloaded!', 3)
 end
 end
 
-local tabrbxm = {'rainbow','nuclear','bigblackwing','mayhem','Pandemonium','Crazed','Purity','cscythe','cdisc','persistence','div','panwmayhem','Mayem','equin','NRG','bigblack','Zyledon','morph'}
+local tabrbxm = {'rainbow','nuclear','bigblackwing','mayhem','Pandemonium','Crazed','Purity','cscythe','cdisc','persistence','div','panmayhem','Mayem','equin','NRG','bigblack','Zyledon','morph'}
 local tabaudio = {'Mayhem','Purity','Corruption','Chaos','Divinity','VantaX','FallenX','Equinox', "BigBlack",'CRAZED','Pandemonium','NRG','Persistence','INSANE','Rainbow','UltraSonic','Destiny','Calamity','Nuclear','Contaminant','Euclidean','Zyloden','ERROR','Violence'}
 local tabpng = {'subclass','Rainbow'}
 if getgenv().DownloadAudio == true then
